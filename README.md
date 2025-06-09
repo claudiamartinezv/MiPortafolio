@@ -1,7 +1,4 @@
 # MiPortafolio
-Evaluación práctica 
-
-# MiPortafolio
 
 Este repositorio contiene la **evaluación práctica de la asignatura de Programación Frontend**, desarrollada como parte del proceso académico.
 
